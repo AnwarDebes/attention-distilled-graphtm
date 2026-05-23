@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+
+# Secrets
+.env
+*.env
+!.env.example
+
+# Large local artifacts
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+

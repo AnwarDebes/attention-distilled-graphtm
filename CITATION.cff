@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Attention-Distilled Graph Tsetlin Machine"
+type: software
+authors:
+  - family-names: Anwar
+    affiliation: "University of Agder (UiA)"
+abstract: "Attention-Distilled Graph Tsetlin Machine."
+date-released: 2026-05-23
+license: MIT

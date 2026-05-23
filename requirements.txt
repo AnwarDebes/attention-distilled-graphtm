@@ -1,0 +1,15 @@
+# Core
+numpy==1.26.4
+
+# Tsetlin Machine
+GraphTsetlinMachine==0.3.3
+
+# Teacher (attention extraction only)
+torch==2.6.0
+transformers==4.57.6
+
+# Datasets
+datasets==2.19.0
+
+# Env loading
+python-dotenv==1.0.1
